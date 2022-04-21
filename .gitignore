@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+npx create-react-app spa
+npm i bootstrap react-bootstrap axios json-server
+npm i boxicons
+npm i react-router-dom
 
 # testing
 /coverage

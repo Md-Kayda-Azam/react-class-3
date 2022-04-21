@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "name": "Md Kayda",
+      "username": "kayda",
+      "email": "kayda@gmail.com",
+      "gender": "Male",
+      "photo": "http://demo.themecanyon.org/html/primax/images/team-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Md Arif",
+      "username": "arif",
+      "email": "arif@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynBryvKzWaR8tUKSYDGuCmuY8adeV_NVyy5UFqNDdKnj8H24gozWr75-q0I6pqSTFYvg&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "Mst Jannatun",
+      "username": "jannatun",
+      "email": "jannatun@gmail.com",
+      "photo": "data:image/jpeg;base64,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",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "name": "Mst Afrin",
+      "username": "afrin",
+      "email": "afrin@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlgtRuPr6MaWKf0A3e0c0sUAAdDUzIpeOv4D7SzPC_ArOaxUzjmPKQW-djxinlamFwMw&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "MSt Mitu",
+      "username": "mitu",
+      "email": "mitu@gmail.com",
+      "photo": "https://reveurdkd.com/wp-content/uploads/2017/02/13_team-member-lg.jpg",
+      "id": 5
+    }
+  ]
+}
